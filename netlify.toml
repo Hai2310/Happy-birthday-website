@@ -1,0 +1,15 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive"
+    Referrer-Policy = "no-referrer"
+    Permissions-Policy = "camera=(), geolocation=(), microphone=(self)"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

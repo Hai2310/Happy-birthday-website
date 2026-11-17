@@ -1,0 +1,13 @@
+node_modules
+dist
+*.tsbuildinfo
+test-results
+playwright-report
+.env
+.env.local
+# Private photos — never commit them to a public repo
+public/assets/our-photos/**/*
+!public/assets/our-photos/README.txt
+!public/assets/our-photos/photos.config.json
+public/assets/optimized
+src/data/*.generated.json

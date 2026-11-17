@@ -1,0 +1,106 @@
+{
+  "tu-chat/anh-01.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-03.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-04.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-05.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-07.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-08.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-10.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-11.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-12.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-13.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-18.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-27.jpg": {
+    "category": "couple"
+  },
+  "tu-chat/anh-06.jpg": {
+    "category": "couple",
+    "scene": "finale"
+  },
+  "tu-chat/anh-09.jpg": {
+    "category": "couple",
+    "scene": "finale"
+  },
+  "tu-chat/anh-14.jpg": {
+    "category": "couple",
+    "scene": "finale"
+  },
+  "tu-chat/anh-25.jpg": {
+    "category": "couple",
+    "scene": "finale"
+  },
+  "tu-chat/anh-26.jpg": {
+    "category": "couple",
+    "scene": "finale"
+  },
+  "tu-chat/anh-22.jpg": {
+    "category": "hero"
+  },
+  "tu-chat/anh-23.jpg": {
+    "category": "hero",
+    "order": 0
+  },
+  "tu-chat/anh-24.jpg": {
+    "category": "hero"
+  },
+  "tu-chat/anh-28.jpg": {
+    "category": "hero"
+  },
+  "tu-chat/anh-21.jpg": {
+    "category": "hero"
+  },
+  "tu-chat/anh-19.jpg": {
+    "category": "other",
+    "scene": "garden"
+  },
+  "tu-chat/anh-31.jpg": {
+    "category": "travel",
+    "scene": "garden"
+  },
+  "tu-chat/anh-02.jpg": {
+    "category": "other"
+  },
+  "tu-chat/anh-15.jpg": {
+    "category": "other"
+  },
+  "tu-chat/anh-16.jpg": {
+    "category": "other"
+  },
+  "tu-chat/anh-17.jpg": {
+    "category": "other"
+  },
+  "tu-chat/anh-20.jpg": {
+    "category": "everyday"
+  },
+  "tu-chat/anh-29.jpg": {
+    "category": "everyday"
+  },
+  "tu-chat/anh-30.jpg": {
+    "category": "everyday"
+  },
+  "tu-chat/anh-32.jpg": {
+    "category": "everyday"
+  }
+}
